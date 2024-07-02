@@ -1,6 +1,6 @@
-## Hi 👋
+## Hi fellow seeker 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&random=false&width=435&lines=welcome+to+my+GitHub;i'm+making+cool+%26+impactful+projects;open+to+collaborate+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&random=false&width=435&lines=welcome+to+my+GitHub;i'm+making+cool+impactful+projects;open+to+collaborate)](https://git.io/typing-svg)
 
 X: https://x.com/DeepankerSeth
 <!--
